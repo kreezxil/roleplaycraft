@@ -6,7 +6,14 @@
 # Mod
 [Mod Page](https://minecraft.curseforge.com/projects/roleplaycraft-recoded)
 
+# Features
+
+# Images
+
 # Mod Makers
 Owner: [efbrfburfhfufrffrfrf](https://minecraft.curseforge.com/members/efbrfburfhfufrffrfrf)
 
 Author: [Kreezxil](https://minecraft.curseforge.com/members/Kreezxil)
+
+# Discord
+Discord Group: Comming Soon
