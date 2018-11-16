@@ -1,0 +1,17 @@
+// ROLEPLAYCRAFT TAB
+itemGroup.tabroleplaycraft=RoleplayCraft Props & Items
+
+
+// ITEMS
+item.ingot_red.name=Red Ingot
+item.rainbow_ingot.name=Rainbow Ingot
+item.broken_heart.name=Broken Heart
+item.heart.name=Heart
+item.raw_poop.name=Raw Poop
+item.cooked_poop.name=Cooked Poop
+item.lgbt_heart.name=LGBT Heart
+item.loveemoji.name=Love Emoji
+item.coolemoji.name=Cool Emoji
+item.kissemoji.name=Kiss Emoji
+
+// BLOCKS
