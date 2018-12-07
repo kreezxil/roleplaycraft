@@ -1,0 +1,15 @@
+{
+     "type": "forge:ore_shaped",
+     "pattern": [
+        "hch"
+     ],
+     "key": {
+        "h": {
+            "item": "roleplaycraft:heart"
+         },
+         "c": { "item":"roleplaycraft:coolemoji" }
+     },
+    "result": {
+        "item": "roleplaycraft:loveemoji"
+     }
+ }

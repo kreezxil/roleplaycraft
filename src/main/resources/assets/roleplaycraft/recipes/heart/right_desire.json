@@ -1,0 +1,28 @@
+{
+     "type": "forge:ore_shaped",
+     "pattern": [
+        "mmm",
+        "mm ",
+		"m  "
+     ],
+     "key": {
+        "m":[ 
+		{
+            "item": "minecraft:rabbit"
+         },
+		{
+            "item": "minecraft:chicken"
+         },
+		{
+            "item": "minecraft:beef"
+         },
+		{
+            "item": "minecraft:porkchop"
+         }
+		 ]
+     },
+    "result": {
+        "item": "roleplaycraft:right_desire",
+        "count": 8
+     }
+ }

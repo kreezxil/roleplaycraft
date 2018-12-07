@@ -1,0 +1,51 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": 
+    [
+        "yyy",
+        "ysy",
+        "yyy"
+    ],
+
+    "key": 
+    {
+        "s": 
+        [
+            {
+                "item": "minecraft:skull",
+                "data": 0
+            },
+
+            {
+                "item": "minecraft:skull",
+                "data": 1
+            },
+
+            {
+                "item": "minecraft:skull",
+                "data": 2
+            },
+
+            {
+                "item": "minecraft:skull",
+                "data": 3
+            },
+
+            {
+                "item": "minecraft:skull",
+                "data": 4
+            }
+        ],
+
+        "y": 
+        {
+            "item": "minecraft:dye",
+            "data": 11
+        }
+    },
+
+    "result": 
+    {
+        "item": "roleplaycraft:coolemoji"
+    }
+}

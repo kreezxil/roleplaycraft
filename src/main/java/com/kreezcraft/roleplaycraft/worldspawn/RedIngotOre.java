@@ -1,4 +1,4 @@
-package com.avanyt.roleplaycraft.worldspawn;
+package com.kreezcraft.roleplaycraft.worldspawn;
 
 public class RedIngotOre {}
 

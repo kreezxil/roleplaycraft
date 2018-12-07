@@ -1,0 +1,25 @@
+language.name=English
+language.region=United States
+language.code=en_us
+
+// ROLEPLAYCRAFT TAB
+itemGroup.roleplaycraft=RoleplayCraft Props & Items
+
+
+// ITEMS
+item.ingot_red.name=Red Ingot
+item.rainbow_ingot.name=Rainbow Ingot
+item.broken_heart.name=Broken Heart
+item.heart.name=Heart
+item.raw_poop.name=Raw Poop
+item.cooked_poop.name=Cooked Poop
+item.lgbt_heart.name=LGBT Heart
+item.loveemoji.name=Love Emoji
+item.coolemoji.name=Cool Emoji
+item.left_love.name=Left Love
+item.right_love.name=Right Love
+item.left_desire.name=Left Desire
+item.right_desire.name=Right Desire
+
+// BLOCKS
+tile.rainbowblock.name=Rainbow Block

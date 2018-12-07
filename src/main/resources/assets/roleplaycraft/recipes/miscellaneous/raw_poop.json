@@ -1,0 +1,15 @@
+{
+     "type": "forge:ore_shapeless",
+    "ingredients": [
+       {
+            "item": "minecraft:dye",
+            "data": 3
+        },
+        {
+            "item": "minecraft:slime_ball"
+        }
+    ],
+    "result": {
+        "item": "roleplaycraft:raw_poop"
+    }
+}

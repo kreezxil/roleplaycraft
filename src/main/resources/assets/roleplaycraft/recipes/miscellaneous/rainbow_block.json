@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": 
+    [
+        "iii",
+        "iii",
+        "iii"
+    ],
+
+    "key": 
+    {
+        "i": 
+        {
+            "item": "roleplaycraft:rainbow_ingot"
+        }
+    },
+
+    "result": 
+    {
+        "item": "roleplaycraft:rainbowblock"
+    }
+}

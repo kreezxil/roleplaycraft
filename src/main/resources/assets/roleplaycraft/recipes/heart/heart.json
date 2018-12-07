@@ -1,0 +1,22 @@
+{
+     "type": "forge:ore_shaped",
+     "pattern": [
+        "lr",
+        "LR"
+     ],
+     "key": {
+        "l": {
+            "item": "roleplaycraft:left_love"
+         },
+         "r": { "item":"roleplaycraft:right_love"
+         },
+        "L": {
+            "item": "roleplaycraft:left_desire"
+         },
+         "R": { "item":"roleplaycraft:right_desire"
+         }
+     },
+    "result": {
+        "item": "roleplaycraft:heart"
+     }
+ }

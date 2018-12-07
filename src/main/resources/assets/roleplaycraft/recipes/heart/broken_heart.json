@@ -1,0 +1,42 @@
+{
+     "type": "forge:ore_shapeless",
+    "ingredients": [
+       {
+            "item": "roleplaycraft:heart"
+        },[
+        {
+            "item": "minecraft:wooden_axe"
+        },
+        {
+            "item": "minecraft:stone_axe"
+        },
+        {
+            "item": "minecraft:iron_axe"
+        },
+        {
+            "item": "minecraft:golden_axe"
+        },
+        {
+            "item": "minecraft:diamond_axe"
+        },
+        {
+            "item": "minecraft:wooden_sword"
+        },
+        {
+            "item": "minecraft:stone_sword"
+        },
+        {
+            "item": "minecraft:iron_sword"
+        },
+        {
+            "item": "minecraft:golden_sword"
+        },
+        {
+            "item": "minecraft:diamond_sword"
+        }
+        ]
+    ],
+    "result": {
+        "item": "roleplaycraft:broken_heart"
+    }
+}

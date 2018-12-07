@@ -1,6 +1,6 @@
-package com.avanyt.roleplaycraft.tabs;
+package com.kreezcraft.roleplaycraft.tabs;
 
-import com.avanyt.roleplaycraft.init.ItemsInit;
+import com.kreezcraft.roleplaycraft.init.InitItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 
@@ -14,7 +14,7 @@ public class tabRoleplayCraft
   
   public ItemStack getTabIconItem()
   {
-    return new ItemStack(ItemsInit.LGBTHeart);
+    return new ItemStack(InitItems.LGBTHeart);
   }
 }
 

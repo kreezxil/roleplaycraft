@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": 
+    [
+        "hhh",
+        "hih",
+        "hhh"
+    ],
+
+    "key": 
+    {
+        "i": 
+        [
+            {
+                "item": "minecraft:iron_ingot"
+            },
+
+            {
+                "item": "minecraft:gold_ingot"
+            }
+        ],
+
+        "h": 
+        {
+            "item": "roleplaycraft:lgbt_heart"
+        }
+    },
+
+    "result": 
+    {
+        "item": "roleplaycraft:rainbow_ingot"
+    }
+}

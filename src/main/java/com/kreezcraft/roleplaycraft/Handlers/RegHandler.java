@@ -1,32 +1,38 @@
-package com.avanyt.roleplaycraft.Handlers;
+package com.kreezcraft.roleplaycraft.Handlers;
 
-import com.avanyt.roleplaycraft.init.ItemsInit;
-import com.avanyt.roleplaycraft.util.IHasModel;
-import java.util.List;
+import com.kreezcraft.roleplaycraft.init.InitBlocks;
+import com.kreezcraft.roleplaycraft.init.InitItems;
+import com.kreezcraft.roleplaycraft.interfaces.IHasModel;
+
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent.Register;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import net.minecraftforge.registries.IForgeRegistry;
-import net.minecraftforge.registries.IForgeRegistryEntry;
 
-@Mod.EventBusSubscriber
+@EventBusSubscriber
 public class RegHandler
 {
-  @SubscribeEvent
-  public static void onItemRegister(RegistryEvent.Register<Item> event)
-  {
-    event.getRegistry().registerAll((IForgeRegistryEntry[])ItemsInit.ITEMS.toArray(new Item[0]));
-  }
-  
-  @SubscribeEvent
-  public static void onModelRegister(ModelRegistryEvent event)
-  {
-    for (Item item : ItemsInit.ITEMS) {
-      if ((item instanceof IHasModel)) {
-        ((IHasModel)item).registerModels();
-      }
-    }
-  }
+	@SubscribeEvent
+	public static void onItemRegister(Register<Item> event) {
+		event.getRegistry().registerAll(InitItems.ITEMS.toArray(new Item[0]));
+	}
+
+	@SubscribeEvent
+	public static void onBlockRegister(Register<Block> event) {
+		event.getRegistry().registerAll(InitBlocks.BLOCKS.toArray(new Block[0]));
+	}
+
+	@SubscribeEvent
+	public static void onModelRegister(ModelRegistryEvent e) {
+		for (Item i : InitItems.ITEMS) {
+			if (i instanceof IHasModel)
+				((IHasModel) i).registerModels();
+		}
+		for (Block b : InitBlocks.BLOCKS) {
+			if (b instanceof IHasModel)
+				((IHasModel) b).registerModels();
+		}
+	}
 }

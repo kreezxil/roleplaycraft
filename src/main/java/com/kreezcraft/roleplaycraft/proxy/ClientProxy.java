@@ -1,4 +1,4 @@
-package com.avanyt.roleplaycraft.proxy;
+package com.kreezcraft.roleplaycraft.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
