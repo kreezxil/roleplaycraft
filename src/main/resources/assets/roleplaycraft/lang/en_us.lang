@@ -21,5 +21,12 @@ item.right_love.name=Right Love
 item.left_desire.name=Left Desire
 item.right_desire.name=Right Desire
 
+item.ornament_white.name=White Ornament
+item.ornament_red.name=Red Ornament
+item.ornament_blue.name=Blue Ornament
+item.ornament_green.name=Green Ornament
+item.ornament_yellow.name=Yellow Ornament
+item.ornament_magenta.name=Magenta Ornament
+
 // BLOCKS
 tile.rainbowblock.name=Rainbow Block

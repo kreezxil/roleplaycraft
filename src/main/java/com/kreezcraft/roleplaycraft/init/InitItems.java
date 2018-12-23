@@ -27,5 +27,14 @@ public class InitItems
   public static final Item RightLove = new ItemBase("right_love");
   public static final Item LeftDesire = new ItemBase("left_desire");
   public static final Item RightDesire = new ItemBase("right_desire");
+  
+  //ornaments
+  public static final Item BlueOrnament = new ItemBase("ornament_blue");
+  public static final Item GreenOrnament = new ItemBase("ornament_green");
+  public static final Item MagentaOrnament = new ItemBase("ornament_magenta");
+  public static final Item RedOrnament = new ItemBase("ornament_red");
+  public static final Item WhiteOrnament = new ItemBase("ornament_white");
+  public static final Item YellowOrnament = new ItemBase("ornament_yellow");
+
 }
 
