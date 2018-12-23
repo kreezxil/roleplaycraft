@@ -14,13 +14,14 @@ public class CustomFood
   public CustomFood(String name, int amount, boolean isWolfFood)
   {
     super(amount, isWolfFood);
-    setUnlocalizedName(name);
+   setUnlocalizedName(name);
     setRegistryName(name);
     setCreativeTab(RoleplayCraft.tabroleplaycraft);
     
     InitItems.ITEMS.add(this);
   }
   
+  @Override
   public void registerModels() {}
 }
 

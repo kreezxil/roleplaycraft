@@ -1,0 +1,16 @@
+{
+     "type": "forge:ore_shaped",
+     "pattern": [
+        "sd"
+     ],
+     "key": {
+        "s": {
+            "item": "minecraft:slime_ball"
+         },
+         "d": { "item":"minecraft:dye","data":13
+         }
+     },
+    "result": {
+        "item": "roleplaycraft:ornament_magenta"
+     }
+ }

@@ -1,0 +1,11 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "roleplaycraft:block_ornament_white",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{"model":"roleplaycraft:block_ornament_white"}],
+    "inventory": [{ "model":"roleplaycraft:ornament_white"}]
+  }
+}
