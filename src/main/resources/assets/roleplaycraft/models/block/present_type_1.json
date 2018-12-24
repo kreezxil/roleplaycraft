@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": 
+    {
+        "bottom": "roleplaycraft:blocks/present_bottom_1",
+        "top": "roleplaycraft:blocks/present_top_1",
+        "side": "roleplaycraft:blocks/present_side_1"
+    }
+}

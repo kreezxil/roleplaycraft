@@ -19,4 +19,8 @@ public class InitBlocks {
 	public static final Block RedOrnament = new Ornament(Material.GLASS,"ornament_red").setHardness(1f);
 	public static final Block WhiteOrnament = new Ornament(Material.GLASS,"ornament_white").setHardness(1f);
 	public static final Block YellowOrnament = new Ornament(Material.GLASS,"ornament_yellow").setHardness(1f);
+	
+	public static final Block PresentType1 = new BlockBase(Material.WOOD,"present_type_1").setHardness(0.2f);
+	public static final Block PresentType2 = new BlockBase(Material.WOOD,"present_type_2").setHardness(0.2f);
+	public static final Block PresentType3 = new BlockBase(Material.WOOD,"present_type_3").setHardness(0.2f);
 }

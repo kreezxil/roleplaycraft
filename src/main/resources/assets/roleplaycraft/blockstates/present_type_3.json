@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": 
+    {
+        "model": "roleplaycraft:present_type_3"
+    },
+
+    "variants": 
+    {
+        "normal": 
+        [
+            {
+                
+            }
+        ],
+
+        "inventory": 
+        [
+            {
+            }
+        ]
+    }
+}

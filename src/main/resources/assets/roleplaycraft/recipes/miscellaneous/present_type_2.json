@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": 
+    [
+        "r",
+        "p"
+    ],
+
+    "key": 
+    {
+        "r": 
+        {
+            "item": "roleplaycraft:rainbow_ingot"
+        },
+        "p": [
+        { "item": "minecraft:planks","data":0},
+        { "item": "minecraft:planks","data":1},
+        { "item": "minecraft:planks","data":2},
+        { "item": "minecraft:planks","data":3},
+        { "item": "minecraft:planks","data":4},
+        { "item": "minecraft:planks","data":5}
+        ]
+    },
+
+    "result": 
+    {
+        "item": "roleplaycraft:present_type_2"
+    }
+}

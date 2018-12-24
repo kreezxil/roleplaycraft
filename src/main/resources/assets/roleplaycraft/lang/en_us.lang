@@ -21,12 +21,16 @@ item.right_love.name=Right Love
 item.left_desire.name=Left Desire
 item.right_desire.name=Right Desire
 
-item.ornament_white.name=White Ornament
-item.ornament_red.name=Red Ornament
-item.ornament_blue.name=Blue Ornament
-item.ornament_green.name=Green Ornament
-item.ornament_yellow.name=Yellow Ornament
-item.ornament_magenta.name=Magenta Ornament
+tile.roleplaycraft.ornament_white.name=White Ornament
+tile.roleplaycraft.ornament_red.name=Red Ornament
+tile.roleplaycraft.ornament_blue.name=Blue Ornament
+tile.roleplaycraft.ornament_green.name=Green Ornament
+tile.roleplaycraft.ornament_yellow.name=Yellow Ornament
+tile.roleplaycraft.ornament_magenta.name=Magenta Ornament
+
+tile.roleplaycraft.present_type_1.name=Green and White Ornate Present
+tile.roleplaycraft.present_type_2.name=Blue and Red Ornate Present
+tile.roleplaycraft.present_type_3.name=Gold Banded Present
 
 // BLOCKS
-tile.rainbowblock.name=Rainbow Block
+tile.roleplaycraft.rainbowblock.name=Rainbow Block
